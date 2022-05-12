@@ -60,7 +60,7 @@ export function WidgetForm() {
           )}
         </>
       )}
-      <footer className="text-xl text-neutral-400">
+      <footer className="text-sm text-neutral-400">
       Estudo realizado com ♥ na <a href="https://rocketseat.com.br" className="underline underline-offset-2">Rocketseat</a>
       </footer>
     </div>
