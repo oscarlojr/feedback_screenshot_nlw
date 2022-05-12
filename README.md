@@ -1,4 +1,4 @@
-# Projeto Feedback Screenshot
+# Projeto Feedback Screenshot (PARTE FRONTEND)
 <p align="center"> Projeto destinado a criação de tela de envio de feedback com screenshot. Atividade realizada na semana NLW Rocketseat.
 </p>
 
